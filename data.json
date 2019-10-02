@@ -1,0 +1,110 @@
+[
+  {
+    "Hostname": "Induction",
+    "Ip": "172.150.0.20",
+    "Port": 7777,
+    "MacAddress": "AC-1F-6B-91-A2-E8",
+    "RemoteInstallPath": "\\\\172.150.0.20\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "Snacktime-1",
+    "Ip": "172.150.0.60",
+    "Port": 7777,
+    "MacAddress": "AC-1F-6B-80-42-FE",
+    "RemoteInstallPath": "\\\\172.150.0.60\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "Snacktime-2",
+    "Ip": "172.150.0.61",
+    "Port": 7777,
+    "MacAddress": "AC-1F-6B-96-04-28",
+    "RemoteInstallPath": "\\\\172.150.0.61\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "companion station",
+    "Ip": "172.150.0.40",
+    "Port": 7777,
+    "MacAddress": "AC-1F-6B-91-3A-22",
+    "RemoteInstallPath": "\\\\172.150.0.40\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "story-pods",
+    "Ip": "172.150.0.120",
+    "Port": 7777,
+    "MacAddress": "AC-1F-6B-91-A7-A2",
+    "RemoteInstallPath": "\\\\172.150.0.120\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "Photobooth",
+    "Ip": "172.150.0.180",
+    "Port": 7777,
+    "MacAddress": "AC-1F-6B-91-3D-2E",
+    "RemoteInstallPath": "\\\\172.150.0.180\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "tinker-space",
+    "Ip": "172.150.0.100",
+    "Port": 7777,
+    "MacAddress": "AC-1F-6B-91-A6-5C",
+    "RemoteInstallPath": "\\\\172.150.0.100\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "virtual-garden",
+    "Ip": "172.150.0.80",
+    "Port": 7777,
+    "MacAddress": "0C-C4-7A-E6-D4-46",
+    "RemoteInstallPath": "\\\\172.150.0.80\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "VG-NUC-1",
+    "Ip": "172.150.0.81",
+    "Port": 7777,
+    "MacAddress": "94-C6-91-A2-B9-F5",
+    "RemoteInstallPath": "\\\\172.150.0.81\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "VG-NUC-4",
+    "Ip": "172.150.0.84",
+    "Port": 7777,
+    "MacAddress": "94-C6-91-A4-76-E1",
+    "RemoteInstallPath": "\\\\172.150.0.84\\Wonderdal",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "VG-NUC-3",
+    "Ip": "172.150.0.83",
+    "Port": 7777,
+    "MacAddress": "94-C6-91-A4-78-0B",
+    "RemoteInstallPath": "\\\\172.150.0.83\\Wonderdal",
+    "AutoShutdownGroup": false,
+    "IsTapin": false
+  },
+  {
+    "Hostname": "VG-NUC-2",
+    "Ip": "172.150.0.82",
+    "Port": 7777,
+    "MacAddress": "94-C6-91-A4-77-A8",
+    "RemoteInstallPath": "",
+    "AutoShutdownGroup": true,
+    "IsTapin": false
+  }
+]
